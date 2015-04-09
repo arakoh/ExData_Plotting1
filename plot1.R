@@ -1,6 +1,6 @@
 ##Set working directory, load "Load data.R".
 
-    setwd("C:")
+    setwd("C:/")
 
   source("./data/Load data.R")
   library(datasets)
